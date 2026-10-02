@@ -16,7 +16,7 @@ local camera = workspace.CurrentCamera
 
 -- AIM SETTINGS
 local FOV_RADIUS = 100
-local AIM_STRENGTH = 0.14
+local AIM_STRENGTH = 0.20
 local MAX_DISTANCE = 300
 
 local aiming = true
